@@ -104,5 +104,5 @@ Distribué sous licence MIT. Voir `LICENSE` pour plus d'informations.
 ---
 
 **Auteur** : [KHERRAF Anis] 
-**Contact** : [anis@kherraf.fr](mailto:anis@kherraf.fr)  
+**Contact** : [kherrafanis13@gmail.com](mailto:kherrafanis13@gmail.com)  
 **Dernière mise à jour** : 14 mars 2025
