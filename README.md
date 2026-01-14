@@ -23,7 +23,7 @@ Un script Python robuste pour télécharger automatiquement les stories Snapchat
 
 1. Cloner le dépôt :
 
-git clone https://github.com/votreutilisateur/snapchat-story-downloader.git
+git clone https://github.com/1nis/snapchat-story-downloader.git
 
 cd snapchat-story-downloader
 
